@@ -1,2 +1,2 @@
 # Delta
-Learning
+Learning.
